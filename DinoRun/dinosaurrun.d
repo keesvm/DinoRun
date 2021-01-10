@@ -1,0 +1,9 @@
+.\dinosaurrun.o: DinosaurRun.c
+.\dinosaurrun.o: tm4c123gh6pm.h
+.\dinosaurrun.o: Nokia5110.h
+.\dinosaurrun.o: SwitchLED.h
+.\dinosaurrun.o: Sound.h
+.\dinosaurrun.o: Random.h
+.\dinosaurrun.o: ADC.h
+.\dinosaurrun.o: GameEngine.h
+.\dinosaurrun.o: TExaS.h
